@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    line-height: 1.5;
+    background-color: #eee;
+    max-width: 1500px;
+    margin: 0px auto;
+    text-align: center;
+    padding: 10px
+}
